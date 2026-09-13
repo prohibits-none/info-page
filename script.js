@@ -148,7 +148,7 @@ let inputs = document.querySelectorAll("input")
 let main = document.querySelector("#main")
 // let fr = document.body.sty
 window.addEventListener("keydown", (e) => {
-    if (e.key === "F10") {
+    if (e.key === "8") {
 
         // Remove everything inside body
         document.body.innerHTML = "";
